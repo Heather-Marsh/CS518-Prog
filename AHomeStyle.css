@@ -57,32 +57,21 @@
     border-radius: 9px;
 }
  
-.firstsection {
+.onlysection {
     background-color: #52958b;
-    height: 400px;
+    height: 1000px;
     text-align: center;
 }
  
-.secondsection {
-    background-color: #81c2b8;
-    height: 400px;
-    text-align: center;
-}
-
-.thirdsection {
-    background-color: #a1e1d7;
-    height: 400px;
-    text-align: center;
-}
  
 .box-main {
     display: flex;
     justify-content: center;
     align-items: center;
     color: black;
-    max-width: 80%;
+    max-width: 100%;
     margin: auto;
-    height: 80%;
+    height: 100%;
     text-align: center;
 }
  
@@ -94,18 +83,6 @@
     text-align: center;
 }
  
-.secondhalf {
-    width: 30%;
-}
- 
-.secondhalf img {
-    width: 70%;
-    border: 4px solid white;
-    border-radius: 150px;
-    display: block;
-    margin: auto;
-    text-align: center;
-}
  
 .text-big {
     font-family: 'Poppins', sans-serif;
@@ -132,18 +109,14 @@
     vertical-align: middle;
 }
  
-.section {
-    height: 400px;
+.onlysection {
+    height: 800px;
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 90%;
+    max-width: 100%;
     margin: auto;
     text-align: center;
-}
- 
-.section-Left {
-    flex-direction: row-reverse;
 }
  
 .paras {
